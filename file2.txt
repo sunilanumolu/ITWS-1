@@ -1,6 +1,8 @@
 hi this is nothing
 really
 noonnoo
-hello
-hi
-checking
+<<<<<<< HEAD
+=======
+hello to all
+bye
+>>>>>>> parallel_branch
